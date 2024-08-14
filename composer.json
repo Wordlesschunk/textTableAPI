@@ -1,0 +1,23 @@
+{
+    "name": "dylanjennings/text-table-api",
+    "description": "An api to create text based tables",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Dylanjennings\\TextTableApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dylan Jennings",
+            "email": "dylan.jennings@wrenkitchens.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^7.1"
+    }
+    ,
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    }
+}
