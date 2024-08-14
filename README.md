@@ -8,7 +8,7 @@ A simple api to create a text based table from a json payload
 
 #### Create text based table
 
-```http
+```
   POST http://localhost:8000/create
 ```
 
